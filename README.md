@@ -46,11 +46,11 @@ or
 
 - 📦 Folder Structure
 - 📁 src/
--   ┣ 📄 App.jsx
--   ┣ 📄 index.js
--   ┣ 📄 MovieApp.css
-- 📄 README.md
-- 🤝 Support
+   ┣ 📄 App.jsx
+   ┣ 📄 index.js
+   ┣ 📄 App.css
+ 📄 README.md
+ 🤝 Support
 - If you like this project, consider giving it a ⭐ on GitHub.
 - Pull requests and suggestions are always welcome!
 
