@@ -1,0 +1,44 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 80px;
+  padding: 20px;
+}
+h1{
+  font-size: 40px;
+  text-align:center
+}
+
+input{
+  background:#2d2d2d;
+  color:#ffffff;
+  border:1px solid #444;
+  height: 20px;
+  width: 300px;
+  border-radius: 20px;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+.Nav{
+  display: flex;;
+  justify-content: center;
+}
+
+button{
+  background:#e50914;
+  padding: 10px 20px;
+  color:white;
+  border-radius: 40px;
+  border:npne;
+  font-weight: bold;
+  font-size: 16px;
+  transition:background 0.3s ease;
+}
+button:hover{
+  background-color:#ff2a2a;
+  box-shadow: 0 0 10px #ff2a2a80;
+}
+input:hover{
+  border:1px solid #2ef;
+}
