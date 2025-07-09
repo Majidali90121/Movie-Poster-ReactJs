@@ -45,12 +45,12 @@ or
 
 
 - 📦 Folder Structure
- src/
-   ┣ 📄 App.jsx
-   ┣ 📄 index.js
-   ┣ 📄 App.css
- 📄 README.md
- 🤝 Support
+ src/<br/>
+   ┣ 📄 App.jsx<br/>
+   ┣ 📄 index.js<br/>
+   ┣ 📄 App.css<br/>
+ 📄 README.md<br/>
+ 🤝 Support<br/>
 - If you like this project, consider giving it a ⭐ on GitHub.
 - Pull requests and suggestions are always welcome!
 
