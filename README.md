@@ -45,7 +45,7 @@ or
 
 
 - 📦 Folder Structure
-- 📁 src/
+ src/
    ┣ 📄 App.jsx
    ┣ 📄 index.js
    ┣ 📄 App.css
