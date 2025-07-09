@@ -30,8 +30,8 @@ It's fast, lightweight, and powered by a **free public API** — no API key requ
    git clone https://github.com/yourusername/movie-poster-app.git
    cd movie-poster-app
    npm install
-   npm start
-```
+   npm start```
+    
 - 🔗 API Used
 - This app uses the following free API (no API key needed):
 
